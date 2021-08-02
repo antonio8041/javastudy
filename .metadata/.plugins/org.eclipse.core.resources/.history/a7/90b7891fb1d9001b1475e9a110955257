@@ -1,0 +1,15 @@
+package ch01;
+
+public class UserInfo {
+
+	public String userId;
+	public String userPassWord;
+	public String userName;
+	public String userAddress;
+	public int phoneNumber;
+}
+
+
+public class showUserItem() {
+	System.out.println(userId + "," + userPassWord + "," + userName + "," + userAddress);
+}

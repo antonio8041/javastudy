@@ -1,0 +1,17 @@
+package ch01;
+
+public class UserInfoTest {
+
+	public static void main(String[] args) {
+		
+		UserInfo user1  = new UserInfo();
+		user1.phoneNumber = "420";
+		user1.userAddress = "chungman chunan-si";
+		user1.userId = "antonio107";
+		user1.userPassWord = "min8041atpn!";
+		
+		user1.showUserInfo();
+		
+	}
+
+}
