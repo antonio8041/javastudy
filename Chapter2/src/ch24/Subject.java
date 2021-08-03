@@ -1,6 +1,7 @@
 package ch24;
 
 public class Subject {
+	//과목 : 과목이름 점수
     private String name;
 	private int scorePoint;
 	

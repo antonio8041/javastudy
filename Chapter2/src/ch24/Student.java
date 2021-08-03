@@ -1,7 +1,7 @@
 package ch24;
 
 import java.util.ArrayList;
-//학생 이름 학번
+//학생 : 이름 학번
 public class Student {
     int studentID;
 	String studentName;
